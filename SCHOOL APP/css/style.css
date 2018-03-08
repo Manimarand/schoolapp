@@ -1,0 +1,12 @@
+/* Your custom styles */
+.logo{
+    margin: 5em !important;
+    width: 16em !important;
+    padding-top: 5em !important;
+}
+.logo1{
+    width: 8em;
+    margin-left: 9em;
+    margin-top: 4em;
+    height: auto;
+}
